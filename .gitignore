@@ -1,0 +1,25 @@
+# Data (download from Signate)
+input/
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Secrets
+.env
+
+# IDE
+.cursor/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.pkl
+*.joblib
+catboost_info/
