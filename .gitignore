@@ -23,3 +23,6 @@ Thumbs.db
 *.pkl
 *.joblib
 catboost_info/
+
+# Archived experiments (kept locally, not pushed)
+src/archive/
